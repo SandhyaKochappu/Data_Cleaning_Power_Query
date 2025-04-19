@@ -27,9 +27,12 @@ Data Cleaning and transformation were performed before Data Analysis.
 
 
 Once cleaned, the data began to tell some fascinating stories:
+
 ✔️ Data Scientists emerged as the highest earners, with an average max salary of $150,000, followed by Data Analysts and Machine Learning Engineers.
+
 ✔️ While California, Massachusetts, and Virginia had the highest number of data jobs, it was Delaware that stood out with the highest single maximum average salary around $331,000 
    followed by North Carolina.
+
 ✔️ Interestingly, the highest average salaries were reported by mid-sized companies (51–200 employees), closely followed by large enterprises (5001–10,000 employees), a surprising twist 
     that defied some expectations.
 
